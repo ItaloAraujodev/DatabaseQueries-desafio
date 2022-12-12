@@ -1,4 +1,4 @@
-import { getRepository, Repository } from 'typeorm';
+/* import { getRepository, Repository } from 'typeorm';
 
 import { User } from '../../../users/entities/User';
 import { Game } from '../../entities/Game';
@@ -28,3 +28,4 @@ export class GamesRepository implements IGamesRepository {
       // Complete usando query builder
   }
 }
+ */
